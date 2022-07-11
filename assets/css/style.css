@@ -157,7 +157,10 @@ body.active { overflow-y: hidden; }
     text-rendering: optimizeLegibility;
 }
 
+.imge{
+  border-radius: 30%;
 
+}
 
 
 
@@ -165,7 +168,7 @@ body.active { overflow-y: hidden; }
   #REUSED STYLE
 \*-----------------------------------*/
 
-.container { padding-inline: 15px; }
+.container { padding-inline: 5px; }
 
 .h1 {
   color: var(--white);
