@@ -159,7 +159,8 @@ body.active { overflow-y: hidden; }
 
 .imge{
   border-radius: 30%;
-
+  display: flex;
+  justify-content: center;
 }
 
 
